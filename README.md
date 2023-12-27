@@ -1,1 +1,1 @@
-# Medicine-Scan-with-Gemini
+# Medicine Scan with Gemini
