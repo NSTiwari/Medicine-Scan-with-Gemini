@@ -6,4 +6,9 @@ The PharmaScan app, powered by revolutionary Gemini Pro Vision API that empowers
 
 This app takes an image of any medicine and generates a prescription instantly covering the medicine name, symptoms it cures, primary diagnosis, dosage, and method of use.
 
+Resources:
+
+1. Generate API Key: https://makersuite.google.com/app/apikey
+2. Gemini: https://blog.google/technology/ai/gemini-api-developers-cloud/
+
 **Note**: This app is just a proof of concept and should not be used as an actual prescription. Please visit a doctor for any health-related matter.
