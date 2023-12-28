@@ -10,7 +10,7 @@ This app takes an image of any medicine and generates a prescription instantly c
   <table>
     <tr>
       <td><img src="https://github.com/NSTiwari/Medicine-Scan-with-Gemini/assets/25379502/a71f1e6d-0828-4b14-b3f2-545bf94cb4a8" alt="compressed (2) (1)"/></td>
-      <td><img src="https://github.com/NSTiwari/Medicine-Scan-with-Gemini/assets/25379502/9d43f353-0d63-4ed8-b90c-fde8ff3c96b4" alt="Gemini_Pro_Vision_App (2)"/></td>
+      <td><img src="https://github.com/NSTiwari/Medicine-Scan-with-Gemini/assets/25379502/8a9686db-3c16-4850-aede-1d3c1822d509" alt="Gemini_Pro_Vision_App (2)"/></td>
     </tr>
   </table>
 </p>
@@ -18,6 +18,7 @@ This app takes an image of any medicine and generates a prescription instantly c
 Resources:
 1. Generate API Key: https://makersuite.google.com/app/apikey
 2. Gemini: https://blog.google/technology/ai/gemini-api-developers-cloud/
+3. Gemini sample app: https://developer.android.com/studio/preview/gemini-template
 
 
 **Note**: This app is just a proof of concept and should not be used as an actual prescription. Please visit a doctor for any health-related matter.
