@@ -1,4 +1,8 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Vpg-3e7smzjkEo0I84zST_0cgoqpIJuT?usp=sharing)
+<p align="center">
+  <img src="https://github.com/NSTiwari/Medicine-Scan-with-Gemini/assets/25379502/c32cf999-28cc-4d49-91fa-7c9496a450a4" alt="compressed (2) (1)"/>
+</p>
+
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Vpg-3e7smzjkEo0I84zST_0cgoqpIJuT?usp=sharing)
 
 # Medicine Scan with Gemini
 
