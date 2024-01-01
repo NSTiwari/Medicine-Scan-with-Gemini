@@ -29,6 +29,10 @@ This app takes an image of any medicine and generates a prescription instantly c
 5. Install the Android app on your phone and enjoy using PharmaScan. 
 
 ## Resources:
+
+1. Demo video: https://www.youtube.com/watch?v=Q06ABLwFGTQ
+2. Blog: https://aashi-dutt3.medium.com/pharmascan-with-gemini-1257d11940b5
+3. What more to do with Gemini: https://www.kaggle.com/code/prathameshbang/gemini-api-starter-notebook
 1. Generate API Key: https://makersuite.google.com/app/apikey
 2. Gemini: https://blog.google/technology/ai/gemini-api-developers-cloud/
 3. Gemini sample app: https://developer.android.com/studio/preview/gemini-template
