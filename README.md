@@ -30,12 +30,13 @@ This app takes an image of any medicine and generates a prescription instantly c
 
 ## Resources:
 
-1. Demo video: https://www.youtube.com/watch?v=Q06ABLwFGTQ
-2. Blog: https://aashi-dutt3.medium.com/pharmascan-with-gemini-1257d11940b5
-3. What more to do with Gemini: https://www.kaggle.com/code/prathameshbang/gemini-api-starter-notebook
-1. Generate API Key: https://makersuite.google.com/app/apikey
-2. Gemini: https://blog.google/technology/ai/gemini-api-developers-cloud/
-3. Gemini sample app: https://developer.android.com/studio/preview/gemini-template
+1. Try it on HF Spaces: https://huggingface.co/spaces/Aashi/Medicine-Prescription-with-Gemini
+2. Demo video: https://www.youtube.com/watch?v=Q06ABLwFGTQ
+3. Blog: https://aashi-dutt3.medium.com/pharmascan-with-gemini-1257d11940b5
+4. What more to do with Gemini: https://www.kaggle.com/code/prathameshbang/gemini-api-starter-notebook
+5. Generate API Key: https://makersuite.google.com/app/apikey
+6. Gemini: https://blog.google/technology/ai/gemini-api-developers-cloud/
+7. Gemini sample app: https://developer.android.com/studio/preview/gemini-template
 
 
 **Note**: This app is just a proof of concept and should not be used as an actual prescription. Please visit a doctor for any health-related matter.
