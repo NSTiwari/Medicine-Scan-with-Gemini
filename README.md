@@ -24,7 +24,7 @@ This app takes an image of any medicine and generates a prescription instantly c
 
 1. Clone the repository on your local machine.
 2. Open the project in Android Studio.
-3. Get the Gemini API key from [Google AI Studio](https://makersuite.google.com/app/apikey) and paste it in the ```Android_App/app/src/main/java/com/example/pharmascan/GenerativeAiViewModelFactory.kt``` file on Line 26.
+3. Get the Gemini API key from [Google AI Studio](https://makersuite.google.com/app/apikey) and paste it in the ```Android_App/app/src/main/java/com/example/pharmascan/GenerativeAiViewModelFactory.kt``` file on **Line 26**.
 4. Build the project.
 5. Install the Android app on your phone and enjoy using PharmaScan. 
 
@@ -32,11 +32,12 @@ This app takes an image of any medicine and generates a prescription instantly c
 
 1. Try it on HF Spaces: https://huggingface.co/spaces/Aashi/Medicine-Prescription-with-Gemini
 2. Demo video: https://www.youtube.com/watch?v=Q06ABLwFGTQ
-3. Blog: https://aashi-dutt3.medium.com/pharmascan-with-gemini-1257d11940b5
-4. What more to do with Gemini: https://www.kaggle.com/code/prathameshbang/gemini-api-starter-notebook
-5. Generate API Key: https://makersuite.google.com/app/apikey
-6. Gemini: https://blog.google/technology/ai/gemini-api-developers-cloud/
-7. Gemini sample app: https://developer.android.com/studio/preview/gemini-template
+3. Try a LIVE demo on [HuggingFace Spaces](https://huggingface.co/spaces/Aashi/Medicine-Prescription-with-Gemini).
+4. Blog: https://aashi-dutt3.medium.com/pharmascan-with-gemini-1257d11940b5
+5. What more to do with Gemini: https://www.kaggle.com/code/prathameshbang/gemini-api-starter-notebook
+6. Generate API Key: https://makersuite.google.com/app/apikey
+7. Gemini: https://blog.google/technology/ai/gemini-api-developers-cloud/
+8. Gemini sample app: https://developer.android.com/studio/preview/gemini-template
 
 
 **Note**: This app is just a proof of concept and should not be used as an actual prescription. Please visit a doctor for any health-related matter.
