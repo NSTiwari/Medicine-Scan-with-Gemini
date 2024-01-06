@@ -88,7 +88,7 @@ fun ImageInterpretationScreen(
     uiState: ImageInterpretationUiState = ImageInterpretationUiState.Loading,
     onReasonClicked: (String, List<Uri>) -> Unit = { _, _ -> }
 ) {
-    val userQuestion = "Get the name of the medicine, its symptoms, primary diagnosis, usage, and dosage from the input image in the following format. \n" +
+    val textPrompt = "Get the name of the medicine, its symptoms, primary diagnosis, usage, and dosage from the input image in the following format. \n" +
             "Example: ● Name\n" +
             "● Symptoms: \n and so on." +
             "Make sure to ask the person to visit the doctor if problem persists."
@@ -141,8 +141,8 @@ fun ImageInterpretationScreen(
 
         Button(
             onClick = {
-                if (userQuestion.isNotBlank()) {
-                    onReasonClicked(userQuestion, imageUris.toList())
+                if (textPrompt.isNotBlank()) {
+                    onReasonClicked(textPrompt, imageUris.toList())
                 }
             },
             modifier = Modifier
