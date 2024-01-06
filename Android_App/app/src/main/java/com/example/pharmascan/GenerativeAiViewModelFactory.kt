@@ -13,7 +13,7 @@ val GenerativeViewModelFactory = object : ViewModelProvider.Factory {
         extras: CreationExtras
     ): T {
         val config = generationConfig {
-            temperature = 0.7f
+            temperature = 0.7f // Try changing the temperature to control the randomness in the results.
         }
 
         return with(viewModelClass) {
