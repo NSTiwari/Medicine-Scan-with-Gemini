@@ -39,4 +39,7 @@ This app takes an image of any medicine and generates a prescription instantly c
 7. Gemini sample app: https://developer.android.com/studio/preview/gemini-template
 
 
+The project is featured in the official MLDP Dec'23 newsletter of Google Developer Experts on Medium.
+
+
 **Note**: This app is just a proof of concept and should not be used as an actual prescription. Please visit a doctor for any health-related matter.
