@@ -39,6 +39,7 @@ This app takes an image of any medicine and generates a prescription instantly c
 7. Gemini sample app: https://developer.android.com/studio/preview/gemini-template
 
 
+## Achievement:
 The project is featured in the official [MLDP Dec'23 Newsletter](https://medium.com/google-developer-experts/mldp-newsletter-dev-2023-machine-learning-communities-highlights-and-achievements-d48fd7f475bd) of Google Developer Experts on Medium.
 
 
