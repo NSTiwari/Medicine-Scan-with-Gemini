@@ -44,3 +44,9 @@ The project is featured in the official [MLDP Dec'23 Newsletter](https://medium.
 
 
 **Note**: This app is just a proof of concept and should not be used as an actual prescription. Please visit a doctor for any health-related matter.
+
+
+# Acknowledgment:
+<img src="https://github.com/NSTiwari/Medicine-Scan-using-Gemini/blob/main/google.png">
+
+Developed during Google's ML Developer Programs Gemini sprint, this project benefited from generous GCP credits that facilitated its completion. We express our gratitude for the support provided.
