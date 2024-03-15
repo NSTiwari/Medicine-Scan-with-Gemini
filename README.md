@@ -47,6 +47,6 @@ The project is featured in the official [MLDP Dec'23 Newsletter](https://medium.
 
 
 # Acknowledgment:
-<img src="https://github.com/NSTiwari/Medicine-Scan-using-Gemini/blob/main/google.png">
+<img src="https://github.com/NSTiwari/Medicine-Scan-with-Gemini/blob/main/google.png">
 
 Developed during Google's ML Developer Programs Gemini sprint, this project benefited from generous GCP credits that facilitated its completion. We express our gratitude for the support provided.
